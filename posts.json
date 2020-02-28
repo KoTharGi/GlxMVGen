@@ -1,0 +1,64 @@
+{
+  "allmovie" : [
+  {
+  "title" : "Action",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "action"
+  }
+  ,
+    {
+  "title" : "Drama",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Drama"
+  }
+  ,
+    {
+  "title" : "Thriller",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Thriller"
+  }
+  ,
+    {
+  "title" : "Bollywood",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Bollywood"
+  }
+  ,
+    {
+  "title" : "Horror",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Horror"
+  }
+  ,
+  {
+  "title" : "Romance",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Romance"
+  }
+  ,
+    {
+  "title" : "Comedy",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Comedy"
+  }
+  ,
+    {
+  "title" : "Musical",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Musical"
+  }
+  ,
+       {
+  "title" : "History",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "History"
+  }
+  ,
+     {
+  "title" : "Adventure",
+  "link" : "https://raw.githubusercontent.com/KoTharGi/GalaxyMovies/master/",
+  "tag" : "Adventure"
+  }
+   
+]
+}
